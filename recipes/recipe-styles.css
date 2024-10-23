@@ -8,7 +8,25 @@ body {
     background-color: beige;
 }
 
+.sub-header {
+    font-size: 40px;
+}
+
+.topic {
+    font-size: 30px;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
 .recipe-img {
     width: 750px;
     height: auto;
+}
+
+.unordered-list,
+.ordered-list {
+    font-size: 20px;
+    background-color: azure;
 }
